@@ -9,7 +9,7 @@ You have 3 LIVES, every time the ball reaches below the bar,
 a heart is lost. If you lose 3 LIVES, you are restarted back
 to Level 1 and lose your score.
 
-TO WIN you must make it through 6 Levels without dying and score
+TO WIN you must make it through 5 Levels without dying and score
 as many points as possible to obtain a high score.
 
 Each brick hit rewards points based on their colour
