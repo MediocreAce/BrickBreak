@@ -1,7 +1,7 @@
 # BrickBreak
 A Breakout Arcade game clone in Unity 2021
 
-//================Objective================///
+================Objective================
 Move the bottom bar horizontally to bounce the ball against
 the bricks above. Once all bricks are hit, the next level will play.
 
@@ -20,7 +20,7 @@ HOWEVER: Hitting RED YELLOW RED will earn,    RED(10) + YELLOW(20) + RED(10) = 4
 
 So clearing each level by colour will earn the highest possible score.
 
-///===============Controls===============///
+===============Controls===============
 A | Left
 D | Right
 P | Pause
